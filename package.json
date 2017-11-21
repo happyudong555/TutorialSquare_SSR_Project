@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "name": "TutorialSquare",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "antd": "^2.13.9",
+    "bootstrap": "^3.3.7",
+    "isomorphic-fetch": "^2.2.1",
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4",
+    "next": "^4.1.4",
+    "next-routes": "^1.1.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "styled-components": "^2.2.1",
+    "styled-jsx": "^2.1.2"
+  }
+}
