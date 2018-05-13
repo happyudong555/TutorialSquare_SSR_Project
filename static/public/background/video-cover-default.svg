@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="350px" viewBox="0 0 800 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #F8F8F8;">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>image-upload-cover-default</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="image-upload-cover-default">
+            <g id="Group" transform="translate(337.000000, 112.000000)">
+                <circle id="Oval" fill="#000000" cx="63.5" cy="63.5" r="63.5"></circle>
+                <g id="ios-play" transform="translate(53.000000, 35.000000)" fill="#FFFFFF">
+                    <polygon id="Shape" points="0 58 38 29 0 0"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
